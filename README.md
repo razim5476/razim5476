@@ -1,7 +1,9 @@
-### MuhammedRazim K.P
 
 
-BCA student
+# Hello, I'm Razim 👋
+
+[![GitHub followers](https://img.shields.io/github/followers/razim?style=social)](https://github.com/razim)
+
 
 **razim5476/razim5476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
