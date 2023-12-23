@@ -4,6 +4,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/razim?style=social)](https://github.com/razim)
 
+# Connect with me:
+
+[![Instagram](https://img.shields.io/badge/Instagram-_.raazziim._-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.raazziim._/)
 
 **razim5476/razim5476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
