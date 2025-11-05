@@ -4,7 +4,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=razim5476&label=Profile%20views&color=0e75b6&style=flat)
   
-  **Fullstack Developer | Python Enthusiast | Building Digital Solutions**
+  **Fullstack Developer**
   
   📍 India | 📧 razimmazz23@gmail.com
   
