@@ -44,52 +44,10 @@ I'm a passionate fullstack developer who loves crafting elegant solutions to com
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=razim5476&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razim5476&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razim5476&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=razim5476&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-  
-</div>
 
 ---
 
-## 💼 What I Do
-
-```python
-class FullstackDeveloper:
-    def __init__(self):
-        self.name = "Muhammed Razim K.P"
-        self.role = "Fullstack Developer"
-        self.location = "India"
-        
-    def get_skills(self):
-        return {
-            "backend": ["Python", "Django", "PostgreSQL"],
-            "frontend": ["React", "HTML5", "Bootstrap"],
-            "tools": ["Docker", "Git", "Linux", "Postman"],
-            "currently_learning": ["Advanced React Patterns", "System Design"]
-        }
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = FullstackDeveloper()
-me.say_hi()
-```
 
 ---
 
